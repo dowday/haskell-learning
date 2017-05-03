@@ -10,8 +10,6 @@ your comment goes here
 and here
 -->
 
-https://github.com/dowday/haskell-learning.git
-https://github.com/dowday/haskell-learning/blob/master/images/cover-haskell-book.jpg
 ## Title
 subtitle !
 ### Two
